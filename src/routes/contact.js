@@ -76,7 +76,7 @@ const Contact = () => {
             />
           </form>
           <div className="socials">
-      <a href="https://www.linkedin.com/in/anusha-arora/" target="_blank">
+      <a href="https://www.linkedin.com/in/anusha-arora/" rel="noreferrer" target="_blank">
    <FaLinkedin className="socicon"/>
    </a>
       </div>
