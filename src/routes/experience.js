@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
 import Nav from "./nav";
-import { Row, Col } from "react-bootstrap"; // Import Col component
 import Accordion from "../Components/accordian";
 import AwardCard from "../Components/award-card";
 

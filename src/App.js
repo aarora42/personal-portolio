@@ -1,13 +1,10 @@
-import logo from './logo.svg';
 import HomeScreen from './routes/home-screen';
 import Education from './routes/education';
 import Coursework from './routes/coursework';
 import Experience from './routes/experience';
 import Contact from './routes/contact';
 import './App.css';
-import { Provider } from 'react-redux';
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
-import Footer from './Components/footer';
 
 function App() {
   return (
