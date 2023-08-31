@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Product Management Co-Op",
+    "duration": "Jan 2021- Aug 2021",
+    "company": "Takeoff Technologies Inc.",
+    "skills": [
+      "Implemented product life cycle to create a client-facing technical documentation hub for training and troubleshooting",
+      "Analyzed performance of technical documentation hub through Google Analytics API and Zendesk Explore ",
+      "Customized hub including “Print-to-pdf” using JavaScript, html, and CSS for optimized navigation and accessibility",
+      "Conducted usability testing with clients to boost Help Center adoption with 86.2% increase in users over three months",
+      "Presented documentation hub successes and usability testing findings during live company-wide presentations",
+      "Served as product owner of cross-functional team and led weekly team stand-ups for blocker resolution",
+      "Developed Looker dashboard to evaluate performance of a critical model used in Takeoff’s processes",
+      "Organized tasks and performed related project management functions with Implementation team"
+    ]
+  },
+  {
+    "title": "Software Engineering Co-Op",
+    "duration": "Jan 2022- Jun 2022",
+    "company": "The TJX Companies Inc.",
+    "skills": [
+        "Successfully built a Sharepoint page for internal knowledge sharing within IT, utilizing technical expertise to ensure efficient and effective management of content and data",
+        "Developed PowerAutomate tools to automate notification processes and document expiration on SharePoint, streamlining communication and enhancing document management for over 100 documents",
+        "Updated internal- and client-facing technical documentation, including rewriting procedures and validating with SMEs, resulting in improved clarity and accuracy in documentation",
+        "Built a solid foundation for a website with team in TJX's InnerSource, utilizing technical knowledge to establish a framework for future development and growth and managing code through Git source control",
+        "Developed skills in Python and Azure DevOps pipeline for InnerSource site creation. Implemented MVC framework for clear code to ensure ease in future use of the code as a template",
+        "Demonstrated strong leadership skills in guiding team members, providing technical guidance and support to ensure successful project completion",
+        "Presented InnerSource implementation to subject matter experts (SMEs) and technical executives, effectively communicating the benefits and technical aspects of the project",
+        " Presented SharePoint document managment library concept to technical teams for feedback"
+    ]
+  }
+]

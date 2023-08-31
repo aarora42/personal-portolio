@@ -1,0 +1,37 @@
+[
+  {
+    "name": "B.S. in Computer Science and Business Administration",
+    "duration": "2019-2023",
+    "university": "Northeastern University",
+    "courses": [
+      "Algorithms",
+      "Marketing Research",
+      "Financial Management",
+      "Psychology of Language",
+      "Object-Oriented-Design",
+      "Management Information Systems",
+      "Learning Principles and Behavioral Analysis",
+      "Database Design",
+      "Computer/Human Interaction",
+      "Organizational Behavior",
+      "The Eloquent Presenter",
+      "Foundations of Software Engineering",
+      "Personality",
+      "Foundations of Data Science",
+      "Interdisciplinary Advanced Writing",
+      "Computer Systems",
+      "Advertising and Brand Promotion",
+      "Consumer behavior",
+      "Strategy in Action"
+    ]
+    ,
+    "minor": "Psychology",
+    "concentration": "Marketing"
+  },
+  {
+    "name": "M.S. in Computer Science",
+    "duration": "2023-2024",
+    "university": "Northeastern University",
+    "courses": ["Web Development", "Database Managment Systems (IP) ", "Data Mining Techniques (IP)"]
+  }
+]

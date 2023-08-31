@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Musify",
+    "class": "Web Development",
+    "brief": "Developed a Spotify discography search website using React, Bootstrap,  NodeJS, and SpotifyAPI"
+  },
+  {
+    "name": "Animation Editor",
+    "class": "Object Oriented Design",
+    "brief": "Developed an animation editor with a partner to using MVC framework in Java"
+  },
+  {
+    "name": "Covid Data Analytics",
+    "class": "Intro to Data Science",
+    "brief": "With a group of 3 other students, I cleaned and performed EDA on this dataset with the end goal of predicting the total number of deaths per million",
+    "link": "https://github.com/poissantk/DS3000-Covid-Project"
+  },
+  {
+    "name": "Organizational Behavior Analysis",
+    "class": "Organizational Behavior",
+    "brief": "Conducted an organizational analysis of a local Boston-based business with a team of 4 other students",
+    "link": "https://docs.google.com/presentation/d/138VR31c9zY0UBXRfAyMhhnQQWB28zBeIsVgTFRF_V-s/edit?usp=sharing"
+  },
+  {
+    "name": "Analysis of Naver's Acquisition of Poshmark",
+    "class": "Strategy in Action",
+    "brief": "Group project: conducted an in-depth analysis of Naver, Poshmark, and their competitors to understand why Naver acquired Poshmark and analyze the success of the acquisition",
+    "link": "https://docs.google.com/document/d/1hvrcTl3fbsWV4q26EaFSgxt-PXiNPnw6KW2U2qHBS6I/edit?usp=sharing"
+  },
+  {
+    "name": "MassPass Covid Testing App Design",
+    "class": "Computer/Human Interaction",
+    "brief": "Worked with a team to create a high-fidelity UI of a Covid testing application for Massachusetts residents",
+    "link": "https://docs.google.com/document/d/1ZwHno_RUlHfVRJOv7oyHT68VVMKSYAhYS77Iruh1QQE/edit?usp=sharing"
+  },
+  {
+    "name": "Personal Website",
+    "brief": "Created a personal portfolio website using React and Bootstrap"
+  }
+  ,
+  {
+    "name": "International Marketing Research Project",
+    "brief": "While studying in Yonsei University in South Korea, worked with a team to study Spotify's international marketing strategy",
+    "link": "https://docs.google.com/presentation/d/1-mO08R_Tnv7cn3pOGmMtV67sxRZ7kIWL/edit?usp=sharing&ouid=118059166993459724732&rtpof=true&sd=true"
+  }
+]
