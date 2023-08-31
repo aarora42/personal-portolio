@@ -18,14 +18,14 @@ const Education = () => {
       <Nav />
       <div className="row align-items-center m-5">
         <div className="col-md-6 ">
-        <img
+          <img
             src="images/diploma-graphic.png"
             alt="Logo"
             style={{ maxWidth: "100%" }}
           />
         </div>
         <div className="col-md-6 text-center">
-        <h1 className="text-right">Education</h1>
+          <h1 className="text-right">Education</h1>
           <h2>Degrees and Relevant Coursework</h2>
         </div>
       </div>

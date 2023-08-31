@@ -28,7 +28,7 @@ code {
 }
 
 h1 {
-  font-size: 55pt;
+  font-size: 45pt;
 }
 
 .education {
@@ -45,16 +45,20 @@ h1 {
 
 @media (max-width: 1000px) {
   .education {
-      width: 95%;
-      margin-left: 0;
-      margin-right: 0;
+    width: 95%;
+    /* Remove margin-left and margin-right */
+    /* margin-left: 0;
+    margin-right: 0; */
+    margin: 10pt auto; /* Center horizontally using auto margins */
   }
 
   .project {
     width: 95%;
     height: auto;
-    margin-left: 0;
-    margin-right: 0;
+    /* Remove margin-left and margin-right */
+    /* margin-left: 0;
+    margin-right: 0; */
+    margin: 10pt auto; /* Center horizontally using auto margins */
   }
 }
 
@@ -171,7 +175,7 @@ h1 {
 
 
 .accordion {
-  max-width: 60%;
+  width: 60%;
   margin: 2rem auto;
 }
 
@@ -204,22 +208,13 @@ h1 {
   background-color: #f3d0d2;
 }
 
-
-@media screen and (max-width: 700px) {
-
-  .accordion {
-    width: 90%;
-  }
-  .job-title {
-    display: flex;
-    flex-direction: column;
-    color:#390347
-  }
-}
 .awards {
-  max-width: 60%;
+  width: 60%;
   margin: 0 auto; /* Center the awards section */
 }
+
+
+
 
 
 .award-more {
@@ -232,4 +227,54 @@ h1 {
   margin-bottom: 10px;
   font-size: 1.5em;
   color: #4E0462;
+}
+
+.bg-peri {
+  background-color: #abb8f4;
+}
+
+h1 {
+  color:#390347;
+}
+
+.socials {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  right: 1%;
+  bottom: 5%;
+}
+
+.socicon {
+  width: 2rem;
+  height: 2rem;
+}
+
+
+
+@media screen and (max-width: 1000px) {
+
+  .accordion {
+    width: 100%;
+  }
+  .job-title {
+    display: flex;
+    flex-direction: column;
+    color:#390347
+  }
+  .awards {
+    width: 100%;
+  }
+  .socials {
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    justify-content: center;
+  }
+
+}
+@media (min-width: 768px) {
+.navbar-expand-md .navbar-collapse  {
+justify-content: flex-end;
+}
 }

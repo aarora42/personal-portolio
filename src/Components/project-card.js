@@ -1,6 +1,5 @@
 import React from "react";
-import {AiOutlineArrowRight} from "react-icons/ai"
-
+import { AiOutlineArrowRight } from "react-icons/ai";
 
 const ProjectCard = ({ project }) => {
   return (
@@ -25,9 +24,16 @@ const ProjectCard = ({ project }) => {
             <h4>{project.brief}</h4>
           </div>
         </div>
-        {project.link && <div class="award-more">
-            <AiOutlineArrowRight size={24}/>
-            </div>}
+        {project.class && (
+          <div className="label label-rounded">
+            <span class="badge bg-peri text-dark">{project.class}</span>
+          </div>
+        )}
+        {project.link && (
+          <div class="award-more">
+            <AiOutlineArrowRight size={24} />
+          </div>
+        )}
       </a>
     </div>
   );

@@ -1,5 +1,6 @@
 import React from "react";
 import Nav from "./nav";
+import {FaLinkedin} from "react-icons/fa"
 
 const Contact = () => {
 //   const [degrees, setDegrees] = useState([]);
@@ -25,37 +26,37 @@ const Contact = () => {
         </div>
         <div className="col-md-6 text-center">
         <h1 className="text-right">Contact</h1>
-          <p>Please feel free to reach out with any inquiries regarding my experience or projects.</p>
+          <h2>Email me with any inquiries</h2>
         </div>
       </div>
-      <section class="contact" id="contact">
+      <section className="contact" id="contact">
       <h2>Get In Touch With Me</h2>
-      <div class="contact-form-container">
-        <div class="contact-form">
+      <div className="contact-form-container">
+        <div className="contact-form">
           <form action="https://formspree.io/f/mvojaeeo" method="POST">
-            <div class="form-control">
+            <div className="form-control">
               <label for="name">Name</label>
               <input
                 type="text"
                 id="name"
                 name="sender-name"
                 placeholder="Enter Your Name"
-                class="input-field"
+                className="input-field"
                 required
               />
             </div>
-            <div class="form-control">
+            <div className="form-control">
               <label for="email">Email</label>
               <input
                 type="email"
                 id="email"
                 name="sender-email"
                 placeholder="Enter Your Email"
-                class="input-field"
+                className="input-field"
                 required
               />
             </div>
-            <div class="form-control">
+            <div className="form-control">
               <label for="message">Message</label>
               <textarea
                 id="message"
@@ -63,7 +64,7 @@ const Contact = () => {
                 rows="10"
                 placeholder="Enter Your Message"
                 name="message"
-                class="input-field"
+                className="input-field"
                 required
               ></textarea>
             </div>
@@ -71,9 +72,14 @@ const Contact = () => {
               type="submit"
               value="Submit"
               id="submit-btn"
-              class="submit-btn"
+              className="submit-btn"
             />
           </form>
+          <div className="socials">
+      <a href="https://www.linkedin.com/in/anusha-arora/" target="_blank">
+   <FaLinkedin className="socicon"/>
+   </a>
+      </div>
         </div>
       </div>
     </section>

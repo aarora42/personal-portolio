@@ -3,7 +3,7 @@ import Nav from "./nav";
 
 const HomeScreen = () => {
   return (
-    <div className="container-fluid ">
+    <div className="container-fluid home ">
       <Nav />
       <div className="row align-items-center m-5">
         <div className="col-md-6 ">

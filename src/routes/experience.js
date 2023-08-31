@@ -54,7 +54,7 @@ const Experience = () => {
       </div>
       <div className="accordion align-items-center awards">
         <h2>Awards</h2>
-        <div className="row justify-content-center mt-5">
+        <div className="row justify-content-center">
           {awards.map((award, index) => (
             <div key={index} className="col-lg-4 col-md-6 mb-4">
               <AwardCard award={award} />

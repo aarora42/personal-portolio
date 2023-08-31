@@ -35,12 +35,13 @@
   },
   {
     "name": "Personal Website",
-    "brief": "Created a personal portfolio website using React and Bootstrap"
-  }
-  ,
+    "brief": "Created a personal portfolio website using React and Bootstrap",
+    "link": "https://github.com/aarora42/personal-portolio"
+  },
   {
     "name": "International Marketing Research Project",
     "brief": "While studying in Yonsei University in South Korea, worked with a team to study Spotify's international marketing strategy",
+    "class": "International Marketing",
     "link": "https://docs.google.com/presentation/d/1-mO08R_Tnv7cn3pOGmMtV67sxRZ7kIWL/edit?usp=sharing&ouid=118059166993459724732&rtpof=true&sd=true"
   }
 ]
