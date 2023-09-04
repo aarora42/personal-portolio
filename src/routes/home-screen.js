@@ -20,7 +20,7 @@ const HomeScreen = () => {
           {/* <p>
             I love to travel and learn new languages! Check out my travels here!
           </p> */}
-          <Button href="https://drive.google.com/file/d/1wSNBLNx2r_dkPkj9_e_3JrDewTIqkyEm/view?usp=sharing" className="primary">View My Resume</Button>
+          <Button href="https://drive.google.com/file/d/12uYpg794Q4ViSS2YU2LqG4V17ypxx6V0/view?usp=sharing" className="primary">View My Resume</Button>
         </div>
         <div className="col-md-6 text-center">
           <img
