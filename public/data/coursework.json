@@ -2,12 +2,13 @@
   {
     "name": "Musify",
     "class": "Web Development",
-    "brief": "Developed a Spotify discography search website using React, Bootstrap,  NodeJS, and SpotifyAPI"
+    "brief": "Developed a Spotify discography search website using React, Bootstrap,  NodeJS, and SpotifyAPI",
+    "link": "https://github.com/Bhavik-20/music-streaming-platform-frontend"
   },
   {
     "name": "Animation Editor",
     "class": "Object Oriented Design",
-    "brief": "Developed an animation editor with a partner to using MVC framework in Java"
+    "brief": "Developed an animation editor with a partner to using MVC framework in Java (private repository)"
   },
   {
     "name": "Covid Data Analytics",
