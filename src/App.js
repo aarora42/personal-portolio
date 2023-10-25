@@ -4,7 +4,7 @@ import Coursework from './routes/coursework';
 import Experience from './routes/experience';
 import Contact from './routes/contact';
 import './App.css';
-import { BrowserRouter, Routes, Route, Navigate, HashRouter } from 'react-router-dom';
+import {Routes, Route, Navigate, HashRouter } from 'react-router-dom';
 
 function App() {
   return (
